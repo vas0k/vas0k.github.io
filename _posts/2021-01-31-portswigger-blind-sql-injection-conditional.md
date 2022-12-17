@@ -213,6 +213,6 @@ Let’s login to the application, and see if it works.
 
 ![](/assets/images/blind-sql-injection-conditional-errors/asset-15.png "")
 
-IT WORKS!
+![IT WORKS!](/assets/images/blind-sql-injection-conditional-errors/asset-16.png "IT WORKS!")
 
 We have successfully logged into the application, using the administrator password that was retrieved, using Blind SQL injection.
