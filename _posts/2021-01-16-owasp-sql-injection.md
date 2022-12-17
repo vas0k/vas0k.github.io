@@ -50,9 +50,7 @@ The application is now attached to port 3000. Let’s fire up a browser, and log
 
 #### II. Login to the application at port 3000
 
-![OWASP Juice Shop — Home screen](/assets/images/owasp-juice-shop-sql-injection/asset-1.png)
-
-OWASP Juice Shop — Home screen
+![OWASP Juice Shop — Home screen!](/assets/images/owasp-juice-shop-sql-injection/asset-1.png "OWASP Juice Shop — Home screen")
 
 This is a very simple, yet fun application, that’s written using Javascript. Feel free to play around with the various menus and pages available. For this tutorial, the login screen is what we are after.
 
