@@ -2,7 +2,8 @@
 title: "Blind SQL Injection — Conditional Errors"
 description: "In this article, I will be exploiting a Blind SQL Injection vulnerability, on a vulnerable web application, that is hosted at Port Swigger…"
 date: "2021-01-31T13:29:54.623Z"
-categories: []
+categories: ["Tech"]
+tags: ["Web Security"]
 published: true
 ---
 
