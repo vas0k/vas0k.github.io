@@ -211,7 +211,7 @@ If we take all the second payloads together, we get the below value (the adminis
 
 Let’s login to the application, and see if it works.
 
-![](/assets/images/blind-sql-injection-conditional-errors/asset-15.png "")
+![Login](/assets/images/blind-sql-injection-conditional-errors/asset-15.png "Login")
 
 ![IT WORKS!](/assets/images/blind-sql-injection-conditional-errors/asset-16.png "IT WORKS!")
 
