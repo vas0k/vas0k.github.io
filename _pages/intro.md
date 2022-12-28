@@ -1,8 +1,12 @@
 ---
-title: "Welcome to my blog!"
+title: "Welcome"
 layout: home
 permalink: /
 ---
+
+### whoami
+
+Hello everyone, and welcome to my blog. I'm a Security engineer who loves programming and automating stuff.
 
 ### What's in it for you?
 
