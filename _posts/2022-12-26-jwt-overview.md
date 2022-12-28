@@ -20,7 +20,7 @@ With the advocation of APIs nowadays, there are caveats to this approach. APIs a
 
 ## What are JWTs?
 
-JWT stands for JSON Web Tokens, and were implemented to make it easier for multiple systems to interact with each other. A JWT is a self-contained string that gives information about the user (called claims) that can be used to authenticate a user or request.
+JWT stands for JSON Web Tokens. A JWT is a self-contained string that gives all the required information about the user (called claims) to authenticate a user or request. One of the main reasons JWTs were implemented, was to enable systems to interact with each other, without the server having to remember sessions.
 
 ### Structure of a JWT
 
