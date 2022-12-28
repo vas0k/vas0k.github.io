@@ -37,7 +37,7 @@ A JWT uses the `$header.$payload.$signature` format, where:
 3. The `$signature` is a base64url encoded string, that gives the signature data. This signature is used to verify whether:
     1. The header+payload was modified during transit. If these values were modified, we will have a totally different hash that results from this new data.
 
-        > Let's look at an example of this. On [jwt.io](jwt.io), try changing the value of the payload. The default payload that is shown is seen below:
+        > Let's look at an example of this. On [jwt.io](https://jwt.io), try changing the value of the payload. The default payload that is shown is seen below:
         > ```json
         >    {
         >        "sub": "1234567890",
